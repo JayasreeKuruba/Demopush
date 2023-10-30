@@ -7,6 +7,7 @@ public class Welcome {
         System.out.println("Welcome to gprec");
         System.out.println("Hello");
         System.out.println("Hi");
+		System.out.println("Welcome to cse");
 	}
 
 }
